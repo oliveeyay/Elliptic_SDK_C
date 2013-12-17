@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1320621834 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\src\libtcpwindows.cpp
+	<winsock2.h>
+	<iostream>
+	<cstdlib>
+	"../include/LibTCPWindows.h"
+
+1320621822 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\include\libtcpwindows.h
+
+1320833708 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\src\operatormodel.cpp
+	<gmpxx.h>
+	<iostream>
+	"../include/OperatorModel.h"
+	"../include/PointGMPClass.h"
+
+1318153724 c:\devc\codeblocks\include\gmpxx.h
+	<iosfwd>
+	<cstring>
+	<string>
+	<stdexcept>
+	<cfloat>
+	<gmp.h>
+
+1318153724 c:\devc\codeblocks\include\gmp.h
+	<iosfwd>
+	<cstdio>
+	<cstddef>
+	<stddef.h>
+
+1320833998 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\include\operatormodel.h
+	<gmpxx.h>
+	"TabMpz.h"
+
+1320758642 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\include\tabmpz.h
+	<gmpxx.h>
+
+1321191916 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\include\pointgmpclass.h
+	<gmpxx.h>
+	"OperatorModel.h"
+
+1321192084 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\src\pointgmpclass.cpp
+	"../include/PointGMPClass.h"
+	"../include/WeierStrassCurve.h"
+	<iostream>
+	<gmpxx.h>
+
+1322841146 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\include\weierstrasscurve.h
+	"OperatorModel.h"
+	"PointGMPClass.h"
+	"../hashlib2plus/trunk/src/hashlibpp.h"
+	"random_mpzclass.h"
+
+1320762624 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\src\tabmpz.cpp
+	"../include/TabMpz.h"
+
+1323255169 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\src\weierstrasscurve.cpp
+	"../include/WeierStrassCurve.h"
+	"../include/PointGMPClass.h"
+	"../include/OperatorModel.h"
+	"../include/TabMpz.h"
+	<gmpxx.h>
+	<iostream>
+
+1321398184 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\src\random_mpzclass.cpp
+	"../include/random_mpzclass.h"
+	<cstdlib>
+	<iostream>
+	<Windows.h>
+	<gmpxx.h>
+	<time.h>
+
+1321397680 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\include\random_mpzclass.h
+	<gmpxx.h>
+
+1323255708 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<gmpxx.h>
+	<string.h>
+	"include/PointGMPClass.h"
+	"include/OperatorModel.h"
+	"include/WeierStrassCurve.h"
+	"include/LibTCPWindows.h"
+	"include/random_mpzclass.h"
+	"hashlib2plus/trunk/src/hashlibpp.h"
+
+1321524820 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\src\euclideetendu.cpp
+	"../include/EuclideEtendu.h"
+	<iostream>
+	<cstdlib>
+	<string.h>
+
+1321524878 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\include\euclideetendu.h
+	<gmpxx.h>
+
+1318523363 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_md5.cpp
+	"hl_md5.h"
+
+1318516387 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_md5.h
+	<string>
+	"hl_types.h"
+
+1318516387 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_types.h
+
+1318523363 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_md5wrapper.cpp
+	<string>
+	<fstream>
+	<iostream>
+	<sstream>
+	"hl_md5wrapper.h"
+
+1318516387 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_md5wrapper.h
+	"hl_hashwrapper.h"
+	"hl_md5.h"
+	<string>
+
+1318523964 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_hashwrapper.h
+	<string>
+	<fstream>
+	"hl_exception.h"
+
+1318519272 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_exception.h
+	<string>
+
+1318523363 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha1.cpp
+	"hl_sha1.h"
+
+1318516387 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha1.h
+	"hl_types.h"
+
+1318523363 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha1wrapper.cpp
+	"hl_sha1wrapper.h"
+	"hl_sha1.h"
+	"hl_types.h"
+	<sstream>
+
+1318516387 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha1wrapper.h
+	"hl_hashwrapper.h"
+	"hl_sha1.h"
+
+1321863413 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha256.cpp
+	"hl_sha256.h"
+	<string.h>
+	<assert.h>
+	"hl_sha2mac.h"
+
+1318516387 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha256.h
+	"hl_types.h"
+
+1318516387 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha2mac.h
+
+1318523363 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha256wrapper.cpp
+	"hl_sha256wrapper.h"
+	"hl_sha256.h"
+	<string>
+
+1318516387 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha256wrapper.h
+	"hl_hashwrapper.h"
+	"hl_sha256.h"
+	<string>
+
+1318523363 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha2ext.cpp
+	<string.h>
+	<assert.h>
+	"hl_sha2ext.h"
+	"hl_sha2mac.h"
+
+1318516387 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha2ext.h
+	"hl_types.h"
+
+1318523363 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha384wrapper.cpp
+	"hl_sha384wrapper.h"
+	<string>
+
+1318516387 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha384wrapper.h
+	"hl_hashwrapper.h"
+	"hl_sha2ext.h"
+	<string>
+
+1318523363 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha512wrapper.cpp
+	"hl_sha512wrapper.h"
+	<string>
+
+1318516387 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_sha512wrapper.h
+	"hl_hashwrapper.h"
+	"hl_sha2ext.h"
+	<string>
+
+1318523363 source:c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_wrapperfactory.cpp
+	<algorithm>
+	"hl_wrapperfactory.h"
+	"hashlibpp.h"
+
+1318523905 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hl_wrapperfactory.h
+	"hl_hashwrapper.h"
+
+1318521707 c:\users\olivier\documents\dropbox\projet crypto\crypto_v1\hashlib2plus\trunk\src\hashlibpp.h
+	"hl_exception.h"
+	"hl_wrapperfactory.h"
+	"hl_hashwrapper.h"
+	"hl_md5wrapper.h"
+	"hl_sha1wrapper.h"
+	"hl_sha256wrapper.h"
+	"hl_sha384wrapper.h"
+	"hl_sha512wrapper.h"
+

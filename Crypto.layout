@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\LibTCPWindows.h" open="0" top="0" tabpos="6">
+		<Cursor position="225" topLine="0" />
+	</File>
+	<File name="include\OperatorModel.h" open="1" top="0" tabpos="6">
+		<Cursor position="1803" topLine="0" />
+	</File>
+	<File name="include\PointGMPClass.h" open="1" top="0" tabpos="5">
+		<Cursor position="1027" topLine="13" />
+	</File>
+	<File name="include\WeierStrassCurve.h" open="1" top="0" tabpos="2">
+		<Cursor position="2286" topLine="38" />
+	</File>
+	<File name="include\random_mpzclass.h" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="17830" topLine="0" />
+	</File>
+	<File name="src\PointGMPClass.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="506" topLine="0" />
+	</File>
+	<File name="src\Save.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="187" topLine="0" />
+	</File>
+	<File name="src\WeierStrassCurve.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="10155" topLine="8" />
+	</File>
+	<File name="src\random_mpzclass.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="38" />
+	</File>
+</CodeBlocks_layout_file>
